@@ -12,7 +12,7 @@ ms.date: 04/15/2021
 
 Peer cache is a built-in solution for Microsoft Endpoint Configuration Manager that enables clients to share content with other clients directly from their local cache. It extends traditional content deployment solutions, such as distribution points. Use peer cache to help manage deployment of content to clients in remote locations. For more information, see [Peer cache for Configuration Manager clients](/mem/configmgr/core/plan-design/hierarchy/client-peer-cache).
 
-## Configure peer cache client settings
+## Configure peer cache client 
 
 To enable clients to be peer cache sources, follow these steps:
 
